@@ -1,0 +1,15 @@
+{
+  "name": "catbox-memory-lru",
+  "description": "LRU memory adapter for catbox",
+  "version": "0.0.1",
+  "repository": "git://github.com/charlesbjohnson/catbox-memory-lru",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hoek": "^2.16.3",
+    "lru-cache": "^2.7.0"
+  }
+}
